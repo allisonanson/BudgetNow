@@ -18,3 +18,4 @@
 
 - Mobile first approach; app mainly to be used on phone. 
 - Username and password to log in. 
+- logout ability 
