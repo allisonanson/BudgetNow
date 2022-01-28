@@ -4,6 +4,15 @@
 
 Here I will summarize what part of the project I worked on each day in a few sentences. 
 
+--- 
+2022/01/27 - Studied JavaScript at learnjavascript.online - 6 chapters. 
+
+---
+2022/01/26 - I did not work on this project as I worked on job applications. 
+
+---
+2022/01/25 - Researched tech stacks and concluded I would use the MERN stack for my small project. I chose MERN because I already have experience with it, it is best suited for small scale applications, and everything is written in JavaScript so it is easier for me to understand. Also, JavaScript is best suited for the browser, which is where my application will reside. 
+
 ---
 2022/01/24 - Created a Trello board for this project (https://trello.com/b/iFzuqMnG). Started transferring requirements from System-Requirements.md to the Backlog board. 
 
