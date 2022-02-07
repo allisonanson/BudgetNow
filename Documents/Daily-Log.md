@@ -5,6 +5,9 @@
 Here I will summarize what part of the project I worked on each day in a few sentences. 
 
 --- 
+2022/02/07 - Preparing by watching videos and completing tutorials on Node.js. 
+
+--- 
 2022/01/27 - Studied JavaScript at learnjavascript.online - 6 chapters. 
 
 ---
@@ -30,3 +33,4 @@ Here I will summarize what part of the project I worked on each day in a few sen
 
 --- 
 2022/01/19 - Created and started the System Requirements document. Created and started this daily log. 
+
